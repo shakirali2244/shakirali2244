@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shakirali2244
 - 👀 I’m interested in ... backend and frontend development
-- 🌱 I’m currently learning ... how to make a database for filling concepts for publicly traded companies 
-- 💞️ I’m looking to collaborate on ... making a leaderboard for publicly traded companies for value investors
+- 🌱 I’m currently learning ... how to use firebase and react 
+- 💞️ I’m looking to collaborate on ... making a database of balance sheets
 - 📫 How to reach me ... shakirali2244@yahoo.com
 
 <!---
